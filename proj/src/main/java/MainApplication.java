@@ -4,6 +4,7 @@ public class MainApplication {
         System.out.println("Hello World!");
         System.out.println("110001");
         System.out.println(22222);
+        System.out.println(---);
     }
 
     public static void doSomething() {
